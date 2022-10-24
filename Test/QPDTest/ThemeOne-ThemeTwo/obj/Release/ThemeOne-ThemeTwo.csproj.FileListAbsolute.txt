@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\bin\Release\ThemeOne-ThemeTwo.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\bin\Release\ThemeOne-ThemeTwo.exe
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\bin\Release\ThemeOne-ThemeTwo.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\bin\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\bin\Release\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\bin\Release\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\obj\Release\ThemeOne-ThemeTwo.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\obj\Release\ThemeOne-ThemeTwo.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\obj\Release\ThemeOne-ThemeTwo.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\obj\Release\ThemeOne-ThemeTwo.exe
+E:\OneDrive - ВГУ\TestTask\ThemeOne-ThemeTwo\obj\Release\ThemeOne-ThemeTwo.pdb
