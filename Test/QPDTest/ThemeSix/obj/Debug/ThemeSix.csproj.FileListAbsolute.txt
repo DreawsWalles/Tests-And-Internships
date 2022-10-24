@@ -1,0 +1,14 @@
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\ThemeSix.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\ThemeSix.exe
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\ThemeSix.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeSix\obj\Debug\ThemeSix.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ThemeSix\obj\Debug\ThemeSix.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ThemeSix\obj\Debug\ThemeSix.exe
+E:\OneDrive - ВГУ\TestTask\ThemeSix\obj\Debug\ThemeSix.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeSix\obj\Debug\ThemeSix.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\ChatBotMultyThread.exe
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\ChatBotMultyThread.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeSix\bin\Debug\ChatBotMultyThread.exe.config
