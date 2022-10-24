@@ -1,0 +1,17 @@
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\ThemeFive.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\ThemeFive.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\ThemeFive.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\ChatBotXML.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\LibraryBinary.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\ChatBotXML.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\ChatBotXML.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\LibraryBinary.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFive\bin\Debug\LibraryBinary.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFive\obj\Debug\ThemeFive.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ThemeFive\obj\Debug\ThemeFive.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ThemeFive\obj\Debug\ThemeFive.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ThemeFive\obj\Debug\ThemeFive.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFive\obj\Debug\ThemeFive.pdb
