@@ -1,0 +1,7 @@
+E:\OneDrive - ВГУ\TestTask\HelpClasses\bin\Release\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\HelpClasses\bin\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\HelpClasses\bin\Release\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\HelpClasses\obj\Release\HelpClasses.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\HelpClasses\obj\Release\HelpClasses.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\HelpClasses\obj\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\HelpClasses\obj\Release\HelpClasses.pdb
