@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\ChatBot\bin\Release\ChatBot.exe.config
+E:\OneDrive - ВГУ\TestTask\ChatBot\bin\Release\ChatBot.exe
+E:\OneDrive - ВГУ\TestTask\ChatBot\bin\Release\ChatBot.pdb
+E:\OneDrive - ВГУ\TestTask\ChatBot\bin\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ChatBot\bin\Release\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ChatBot\bin\Release\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ChatBot\obj\Release\ChatBot.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ChatBot\obj\Release\ChatBot.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ChatBot\obj\Release\ChatBot.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ChatBot\obj\Release\ChatBot.exe
+E:\OneDrive - ВГУ\TestTask\ChatBot\obj\Release\ChatBot.pdb
