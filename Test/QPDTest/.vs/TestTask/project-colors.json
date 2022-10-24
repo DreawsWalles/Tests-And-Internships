@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ee22507d-89a1-46d3-a875-ff3cddf8ad49": {
+      "ProjectGuid": "ee22507d-89a1-46d3-a875-ff3cddf8ad49",
+      "DisplayName": "LibraryWeb",
+      "ColorIndex": 0
+    },
+    "7aefed72-7faa-4997-8b63-63bdd7e0cb8d": {
+      "ProjectGuid": "7aefed72-7faa-4997-8b63-63bdd7e0cb8d",
+      "DisplayName": "ChatBot",
+      "ColorIndex": 1
+    },
+    "7919ecb4-16d7-44a7-8845-f4e76f355a03": {
+      "ProjectGuid": "7919ecb4-16d7-44a7-8845-f4e76f355a03",
+      "DisplayName": "ChatBotXML",
+      "ColorIndex": 2
+    },
+    "d67e546f-3db2-4832-8d50-605dc3f3d753": {
+      "ProjectGuid": "d67e546f-3db2-4832-8d50-605dc3f3d753",
+      "DisplayName": "ChatBotMultyThread",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
