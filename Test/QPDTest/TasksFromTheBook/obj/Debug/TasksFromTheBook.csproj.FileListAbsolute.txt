@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\bin\Debug\TasksFromTheBook.exe.config
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\bin\Debug\TasksFromTheBook.exe
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\bin\Debug\TasksFromTheBook.pdb
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\obj\Debug\TasksFromTheBook.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\obj\Debug\TasksFromTheBook.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\obj\Debug\TasksFromTheBook.exe
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\obj\Debug\TasksFromTheBook.pdb
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\bin\Debug\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\bin\Debug\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\bin\Debug\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\TasksFromTheBook\obj\Debug\TasksFromTheBook.csproj.CopyComplete
