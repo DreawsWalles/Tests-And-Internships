@@ -1,0 +1,49 @@
+﻿@model LibraryWeb.Models.Book
+@{
+    ViewData["Title"] = "Главная";
+    Layout = "_Layout";
+}
+<header>
+<nav class="navbar border">
+    <div class="container-menu">
+        <div class="brand"><a class="navbar-brand" asp-controller="Library" asp-action="Index">LibraryWeb</a></div>
+        <div class="menu">
+            <div class="point-menu-1"><a class="point-menu" asp-controller="Library" asp-action="PrintBooks">Книги</a></div>
+            <div class="point-menu-2"><a class="point-menu" asp-controller="Library" asp-action="PrintJournals">Журналы</a></div>
+        </div>
+        <form asp-action="AllSearch" asp-controller="Library">
+            <div class="input-group">
+                <div class="form-outline">
+                    <input type="search" id="form1" asp-for="Name" class="form-control" />
+                </div>
+                <button type="submit" class="btn btn-primary">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                        <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                    </svg>
+                </button>
+            </div>
+        </form>
+    </div>
+</nav>
+</header>
+    <div class="container">
+        <main role="main">
+            <div class="image-1">
+                <a asp-controller="Library" asp-action="PrintBooks">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="15em" height="15em" fill="currentColor" class="bi bi-journal-bookmark" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M6 8V1h1v6.117L8.743 6.07a.5.5 0 0 1 .514 0L11 7.117V1h1v7a.5.5 0 0 1-.757.429L9 7.083 6.757 8.43A.5.5 0 0 1 6 8z" />
+                        <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z" />
+                        <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z" />
+                    </svg>
+                </a>
+            </div>
+            <div class="image-2">
+                <a asp-controller="Library" asp-action="PrintJournals">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="15em" height="15em" fill="currentColor" class="bi bi-journal" viewBox="0 0 16 16">
+                        <path d="M3 0h10a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-1h1v1a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H3a1 1 0 0 0-1 1v1H1V2a2 2 0 0 1 2-2z" />
+                        <path d="M1 5v-.5a.5.5 0 0 1 1 0V5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0V8h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1zm0 3v-.5a.5.5 0 0 1 1 0v.5h.5a.5.5 0 0 1 0 1h-2a.5.5 0 0 1 0-1H1z" />
+                    </svg>
+                </a>
+            </div>
+        </main>
+    </div>

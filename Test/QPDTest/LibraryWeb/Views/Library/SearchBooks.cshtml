@@ -1,0 +1,65 @@
+﻿@model List<Book>
+@{
+    ViewData["Title"] = "Поиск";
+    Layout = "_Layout";
+}
+<header>
+    <nav class="navbar border">
+        <div class="container-menu">
+            <div class="brand"><a class="navbar-brand" asp-controller="Library" asp-action="Index">LibraryWeb</a></div>
+            <div class="menu">
+                <div class="point-menu-1"><a class="point-menu" asp-controller="Library" asp-action="PrintBooks">Книги</a></div>
+                <div class="point-menu-2"><a class="point-menu" asp-controller="Library" asp-action="PrintJournals">Журналы</a></div>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="container">
+    <main role="main" class="pb-3">
+        <table>
+            @{
+                if (Model.Count() == 0)
+                {
+                    <div>По данному запросу ничего не найдено</div>
+                }
+                else
+                {
+                    <tr>
+                        <td>Название</td>
+                        <td>Издательство</td>
+                        <td>Периодичность</td>
+                        <td>Номер</td>
+                        <td>Количество</td>
+                        <td>Год</td>
+                    </tr>
+                    foreach (Book element in Model)
+                    {
+                        <form>
+                        <tr>
+                            <td>
+                                <input type="text" readonly value="@element.Name" />
+                            </td>
+                            <td>
+                                <input type="text" readonly value="@element.Author" />
+                            </td>
+                            <td>
+                                <input type="text" readonly value="@element.Genre" />
+                            </td>
+                            <td>
+                                <input type="text" readonly value="@element.Publisher" />
+                            </td>
+                            <td>
+                                <input type="text" readonly value="@element.Count" />
+                            </td>
+                            <td>
+                                <input type="text" readonly value="@element.Year" />
+                            </td>
+                        </tr>
+                        </form>
+                    }
+                }
+            }
+            <tr>
+        </table>
+    </main>
+</div>

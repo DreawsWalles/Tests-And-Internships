@@ -1,0 +1,154 @@
+﻿@model LibraryWeb.Models.Journal
+@{
+    ViewData["Title"] = "Список журналов";
+    Layout = "_Layout";
+}
+<header>
+    <nav class="navbar border">
+        <div class="container-menu">
+            <div class="brand"><a class="navbar-brand" asp-controller="Library" asp-action="Index">LibraryWeb</a></div>
+            <div class="menu">
+                <div class="point-menu-1"><a class="point-menu" asp-controller="Library" asp-action="PrintBooks">Книги</a></div>
+                <div class="point-menu-2"><a class="point-menu" asp-controller="Library" asp-action="PrintJournals">Журналы</a></div>
+            </div>
+            <form asp-action="AllSearch" asp-controller="Library">
+                <div class="input-group">
+                    <div class="form-outline">
+                        <input type="search" id="form1" asp-for="Name" class="form-control" />
+                    </div>
+                    <button type="submit" class="btn btn-primary">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16">
+                            <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z" />
+                        </svg>
+                    </button>
+                </div>
+            </form>
+        </div>
+    </nav>
+</header>
+<div class="container">
+    <main role="main" class="pb-3">
+        <table>
+            <tr>
+                <td></td>
+                <td>Название</td>
+                <td>Издательство</td>
+                <td>Периодичность</td>
+                <td>Номер</td>
+                <td>Количество</td>
+                <td>Год</td>
+                <td></td>
+            </tr>
+            @foreach (Journal element in (List<Journal>)ViewData["Journals"])
+            {
+                <form id="@element.id" asp-route-id="@element.id" asp-action="EditJournal" method="post">
+                <tr>
+                    <td>
+                        <input type="button" onClick="clickButton(@element.id)" value="🖊" />
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Name" readonly value="@element.Name" />
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Publisher" readonly value="@element.Publisher" />
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Periodically" readonly value="@element.Periodically" />
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Number" readonly value="@element.Number" />
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Count" readonly value="@element.Count" />
+                    </td>
+                    <td>
+                        <input type="text" asp-for="Year" readonly value="@element.Year" />
+                    </td>
+                    <td><input type="submit" asp-controller="Library" asp-route-id="@element.id" asp-action="DeleteJoural" value="Удалить" onclick="clickCancel(@element.id)" /></td>
+                </tr>
+                </form>
+            }
+            <tr>
+                <form asp-action="AddJournal" method="post">
+                <td></td>
+                <td>
+                    <input type="text" asp-for="Name" />
+                </td>
+                <td>
+                    <input type="text" asp-for="Publisher" />
+                </td>
+                <td>
+                    <input type="text" asp-for="Periodically" />
+                </td>
+                <td>
+                    <input type="text" asp-for="Number" />
+                </td>
+                <td>
+                    <input type="text" asp-for="Count" />
+                </td>
+                <td>
+                    <input type="text" asp-for="Year" />
+                </td>
+                <td>
+                    <input type="submit" value="Добавить" />
+                </td>
+                </form>
+            </tr>
+        </table>
+    </main>
+</div>
+        <script>
+            var obj = { Name: "", Publisher: "", Periodically: 0, Number: 0, Count: 0, Year: 0 };
+            var formaction;
+            function clickButton(id) {
+                let element = document.getElementById(id);
+                obj.Name = element[1].value;
+                obj.Publisher = element[2].value;
+                obj.Periodically = element[3].value;
+                obj.Number = element[4].value;
+                obj.Count = element[5].value;
+                obj.Year = element[6].value;
+                let input = element[0];
+                if (input.attributes[2].value === "🖊") {
+                    input.attributes[2].value = "✓";
+                    input.attributes[0].value = "button";
+                    for (let i = 1; i < 8; i++) {
+                        element[i].readOnly = false;
+                    }
+                    element[7].value = "Отменить";
+                    formaction = element[7].attributes[2];
+                    element[7].removeAttribute("formaction");
+                    element[7].attributes[0].value = "button";
+                }
+                else {
+                    input.attributes[2].value = "🖊";
+                    input.attributes[0].value = "submit";
+                    for (let i = 1; i < 8; i++) {
+                        element[i].readOnly = true;
+                    }
+                    element[7].value = "Удалить";
+                    element.setAttribute("formaction", formaction);
+                    element[7].attributes[0].value = "submit";
+                }
+            }
+            function clickCancel(id) {
+                let element = document.getElementById(id);
+                let input = element[7];
+                if (input.attributes[1].value === "Отменить") {
+                    input.attributes[2].value = "🖊";
+                    input.attributes[0].value = "submit";
+                    for (let i = 1; i < 8; i++) {
+                        element[i].readOnly = true;
+                    }
+                    element[7].value = "Удалить";
+                    element.setAttribute("formaction", formaction);
+                    element[7].attributes[0].value = "submit";
+                    element[1].value = obj.Name;
+                    element[2].value = obj.Publisher;
+                    element[3].value = obj.Periodically;
+                    element[4].value = obj.Number;
+                    element[5].value = obj.Count;
+                    element[6].value = obj.Year;
+                }
+            }
+        </script>
