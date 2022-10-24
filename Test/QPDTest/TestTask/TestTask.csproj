@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C9D93994-2EB0-4A67-B509-3B72B50D474E}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TestTask</RootNamespace>
+    <AssemblyName>TestTask</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>TestTask.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HelpClasses\HelpClasses.csproj">
+      <Project>{d21e0818-851c-42dd-aa62-89550595b03d}</Project>
+      <Name>HelpClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibraryDatabase\LibraryDatabase.csproj">
+      <Project>{544dfa55-a39e-49fa-bdd3-157e8ffdce4f}</Project>
+      <Name>LibraryDatabase</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\LibraryWeb\LibraryWeb.csproj">
+      <Project>{ee22507d-89a1-46d3-a875-ff3cddf8ad49}</Project>
+      <Name>LibraryWeb</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TasksFromTheBook\TasksFromTheBook.csproj">
+      <Project>{717aeb12-9781-487a-bfcd-c827d2555889}</Project>
+      <Name>TasksFromTheBook</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThemeFive\ThemeFive.csproj">
+      <Project>{0d2deda8-69b4-42c9-9c0b-c2f5227d3c35}</Project>
+      <Name>ThemeFive</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThemeFour\ThemeFour.csproj">
+      <Project>{debdd6fd-d875-48f1-95f0-88720113aa7c}</Project>
+      <Name>ThemeFour</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThemeOne-ThemeTwo\ThemeOne-ThemeTwo.csproj">
+      <Project>{477253dd-ee30-4757-b76e-5670e16bf3a5}</Project>
+      <Name>ThemeOne-ThemeTwo</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThemeSix\ThemeSix.csproj">
+      <Project>{5d336ea6-4835-4fc0-9548-b0b6e7d99b5a}</Project>
+      <Name>ThemeSix</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ThemeThree\ThemeThree.csproj">
+      <Project>{6ec3f1ef-2ec5-44a9-a023-b9e74c5d7219}</Project>
+      <Name>ThemeThree</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WebBot\WebBot.csproj">
+      <Project>{54cb0903-824b-45df-b451-fc6187df20d1}</Project>
+      <Name>WebBot</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
