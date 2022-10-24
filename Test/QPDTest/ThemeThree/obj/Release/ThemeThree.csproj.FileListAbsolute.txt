@@ -1,0 +1,14 @@
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\ThemeThree.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\ThemeThree.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\ThemeThree.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\Library.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\Library.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Release\Library.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Release\ThemeThree.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Release\ThemeThree.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Release\ThemeThree.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Release\ThemeThree.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Release\ThemeThree.pdb

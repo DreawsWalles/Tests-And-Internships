@@ -1,0 +1,14 @@
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\ThemeThree.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\ThemeThree.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\ThemeThree.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Debug\ThemeThree.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Debug\ThemeThree.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Debug\ThemeThree.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Debug\ThemeThree.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeThree\obj\Debug\ThemeThree.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\Library.exe
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\Library.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeThree\bin\Debug\Library.exe.config
