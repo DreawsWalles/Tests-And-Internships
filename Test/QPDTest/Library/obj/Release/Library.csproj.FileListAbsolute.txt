@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\Library\bin\Release\Library.exe.config
+E:\OneDrive - ВГУ\TestTask\Library\bin\Release\Library.exe
+E:\OneDrive - ВГУ\TestTask\Library\bin\Release\Library.pdb
+E:\OneDrive - ВГУ\TestTask\Library\bin\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\Library\bin\Release\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\Library\bin\Release\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\Library\obj\Release\Library.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\Library\obj\Release\Library.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\Library\obj\Release\Library.exe
+E:\OneDrive - ВГУ\TestTask\Library\obj\Release\Library.pdb
+E:\OneDrive - ВГУ\TestTask\Library\obj\Release\Library.csproj.AssemblyReference.cache
