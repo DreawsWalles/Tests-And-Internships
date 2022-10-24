@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\bin\Debug\ChatBotXML.exe.config
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\bin\Debug\ChatBotXML.exe
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\bin\Debug\ChatBotXML.pdb
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\obj\Debug\ChatBotXML.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\obj\Debug\ChatBotXML.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\obj\Debug\ChatBotXML.exe
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\obj\Debug\ChatBotXML.pdb
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\bin\Debug\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\bin\Debug\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\bin\Debug\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ChatBotXML\obj\Debug\ChatBotXML.csproj.CopyComplete
