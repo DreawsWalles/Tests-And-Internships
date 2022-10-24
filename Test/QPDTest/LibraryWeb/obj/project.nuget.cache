@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B7IwH179MVBhunFuBxGql+y7NcSM05Ph4gTd/0Qhf8znidIVZj2fAgDAnjSSTCYFnRgov9/7+H+dRriSlznMjw==",
+  "dgSpecHash": "iQkk+auDOLzx0C0Zb2mDFF8eNqy7qgr4LRONOBKt2OEosBWlmQudCzVTbNbRjgYrrPpQKV8VinuyTvn8WJ6F/w==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive - ВГУ\\TestTask\\LibraryWeb\\LibraryWeb.csproj",
+  "projectFilePath": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\LibraryWeb\\LibraryWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spits\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.10\\microsoft.aspnetcore.mvc.razor.extensions.5.0.10.nupkg.sha512",
     "C:\\Users\\spits\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.10\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.10.nupkg.sha512",

@@ -1,0 +1,17 @@
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\ThemeFour.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\ThemeFour.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\ThemeFour.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\Calculator.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\ChatBot.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\Calculator.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\Calculator.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\ChatBot.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\ChatBot.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ThemeFour\bin\Release\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ThemeFour\obj\Release\ThemeFour.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ThemeFour\obj\Release\ThemeFour.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ThemeFour\obj\Release\ThemeFour.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ThemeFour\obj\Release\ThemeFour.exe
+E:\OneDrive - ВГУ\TestTask\ThemeFour\obj\Release\ThemeFour.pdb

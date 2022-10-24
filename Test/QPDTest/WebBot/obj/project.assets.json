@@ -6079,11 +6079,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - ВГУ\\TestTask\\WebBot\\WebBot.csproj",
+      "projectUniqueName": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\WebBot\\WebBot.csproj",
       "projectName": "WebBot",
-      "projectPath": "D:\\OneDrive - ВГУ\\TestTask\\WebBot\\WebBot.csproj",
+      "projectPath": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\WebBot\\WebBot.csproj",
       "packagesPath": "C:\\Users\\spits\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - ВГУ\\TestTask\\WebBot\\obj\\",
+      "outputPath": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\WebBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

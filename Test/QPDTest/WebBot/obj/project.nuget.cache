@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y2MjQMKVAnViSRpoVdR5+3n3xevZXFaqlnU6qwVVyLdSm63CGwRJfle21xCSqC5uxJ1TqcC9UGkgUtle1yFRmw==",
+  "dgSpecHash": "2G+nODSIZFIvde8k1vkBSVrw7UWcjJ1tRZU2H/9z00QTjBAokkqDGvOwh2Qt0NQJdter4vwfONUuB1RlLTNHnA==",
   "success": true,
-  "projectFilePath": "D:\\OneDrive - ВГУ\\TestTask\\WebBot\\WebBot.csproj",
+  "projectFilePath": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\WebBot\\WebBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spits\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\spits\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",

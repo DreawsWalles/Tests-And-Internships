@@ -6542,11 +6542,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\OneDrive - ВГУ\\TestTask\\LibraryWeb\\LibraryWeb.csproj",
+      "projectUniqueName": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\LibraryWeb\\LibraryWeb.csproj",
       "projectName": "LibraryWeb",
-      "projectPath": "D:\\OneDrive - ВГУ\\TestTask\\LibraryWeb\\LibraryWeb.csproj",
+      "projectPath": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\LibraryWeb\\LibraryWeb.csproj",
       "packagesPath": "C:\\Users\\spits\\.nuget\\packages\\",
-      "outputPath": "D:\\OneDrive - ВГУ\\TestTask\\LibraryWeb\\obj\\",
+      "outputPath": "D:\\OneDrive - ВГУ\\Tests-And-Internships\\Test\\QPDTest\\LibraryWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
