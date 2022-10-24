@@ -1,0 +1,6 @@
+﻿@model IEnumerable<WebBot.Models.Message>
+<h3>Частичное представление</h3>
+@foreach (Message element in Model)
+{
+    <h3>@element._Message</h3>
+}

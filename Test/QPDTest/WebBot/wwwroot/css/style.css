@@ -1,0 +1,56 @@
+﻿body {
+}
+.container {
+    width: 40%;
+    bottom: 4em;
+    left:35em;
+    position: absolute;
+}
+.dialog {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ECF5F1;
+    min-height: 20em;
+    margin-top: 1em;
+    border-radius:1em;
+    padding-top:1.25em;
+    padding-left:2em;
+    padding-right:2em;
+}
+.message {
+    background-color: #9E14FA;
+    width: auto;
+    display: inline-block;
+    padding: 0.5em;
+    min-width: 27em;
+    border-radius: 1em;
+    padding-left: 1em;
+    padding-right:1em;
+    margin-bottom: 0.8em;
+    float: right;
+    color:white;
+}
+    .message:nth-child(odd) {
+        float: left;
+        color:black;
+        background-color: #A6F5B6
+    }
+.form{
+    display:flex;
+    padding-top:1em;
+    margin-left:0.8em;
+}
+.input-group {
+    width: 80%;
+    margin-right:2em;
+}
+.btn{
+    height:2.3em;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    min-height: 4em;
+    width: 100%;
+    background-color: #B7A3F5;
+}

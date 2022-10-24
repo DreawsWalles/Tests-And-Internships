@@ -1,0 +1,19 @@
+﻿@model Message
+@{
+    Layout = "_Layout";
+}
+<div class="dialog">
+    @foreach (Message element in (List<Message>)ViewData["dialogs"])
+    {
+        <div class="message">@element._Message</div>
+    }
+</div>
+<form class="form" asp-action="Ask" method="post">
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="basic-addon1">/</span>
+        </div>
+        <input type="text" class="form-control" placeholder="Username"  asp-for="_Message" aria-label="Username" aria-describedby="basic-addon1">
+    </div>
+    <input class="btn btn-outline-info" type="submit" value="Отправить" />
+</form>
