@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\bin\Release\ChatBotMultyThread.exe.config
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\bin\Release\ChatBotMultyThread.exe
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\bin\Release\ChatBotMultyThread.pdb
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\bin\Release\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\bin\Release\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\bin\Release\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\obj\Release\ChatBotMultyThread.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\obj\Release\ChatBotMultyThread.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\obj\Release\ChatBotMultyThread.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\obj\Release\ChatBotMultyThread.exe
+E:\OneDrive - ВГУ\TestTask\ChatBotMultyThread\obj\Release\ChatBotMultyThread.pdb
