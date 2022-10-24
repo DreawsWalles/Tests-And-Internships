@@ -1,0 +1,11 @@
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\bin\Debug\project.exe.config
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\bin\Debug\project.exe
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\bin\Debug\project.pdb
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.FormMain.resources
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.exe
+C:\Users\spits\Desktop\TestTask-File-Thread--master\project\obj\Debug\project.pdb
