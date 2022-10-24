@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\bin\Debug\LibraryBinary.exe.config
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\bin\Debug\LibraryBinary.exe
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\bin\Debug\LibraryBinary.pdb
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\bin\Debug\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\bin\Debug\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\bin\Debug\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\obj\Debug\LibraryBinary.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\obj\Debug\LibraryBinary.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\obj\Debug\LibraryBinary.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\obj\Debug\LibraryBinary.exe
+E:\OneDrive - ВГУ\TestTask\LibraryBinary\obj\Debug\LibraryBinary.pdb
