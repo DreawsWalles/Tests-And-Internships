@@ -1,0 +1,11 @@
+E:\OneDrive - ВГУ\TestTask\Calculator\bin\Debug\Calculator.exe.config
+E:\OneDrive - ВГУ\TestTask\Calculator\bin\Debug\Calculator.exe
+E:\OneDrive - ВГУ\TestTask\Calculator\bin\Debug\Calculator.pdb
+E:\OneDrive - ВГУ\TestTask\Calculator\bin\Debug\HelpClasses.exe
+E:\OneDrive - ВГУ\TestTask\Calculator\bin\Debug\HelpClasses.pdb
+E:\OneDrive - ВГУ\TestTask\Calculator\bin\Debug\HelpClasses.exe.config
+E:\OneDrive - ВГУ\TestTask\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\TestTask\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\TestTask\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+E:\OneDrive - ВГУ\TestTask\Calculator\obj\Debug\Calculator.exe
+E:\OneDrive - ВГУ\TestTask\Calculator\obj\Debug\Calculator.pdb
