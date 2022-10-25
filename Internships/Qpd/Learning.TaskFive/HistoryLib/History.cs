@@ -1,0 +1,51 @@
+﻿using ModelsLib;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.Json;
+using System.Threading.Tasks;
+using ViewLib;
+
+namespace HistoryLib
+{
+    public class History
+    {
+        private IView _view;
+        public History(IView view)
+        {
+            if (!Directory.Exists("History"))
+                Directory.CreateDirectory("History");
+            if (!File.Exists("History/history"))
+                using (FileStream file = new FileStream("History/history", FileMode.OpenOrCreate))
+                {
+                    JsonSerializer.Serialize<List<HistoryModel>>(file, new List<HistoryModel>());
+                }
+            _view = view;
+        }
+        public void DownLoad()
+        {
+            List<HistoryModel> list;
+            using (FileStream file = new FileStream("History/history", FileMode.OpenOrCreate))
+            {
+                list = JsonSerializer.Deserialize<List<HistoryModel>>(file);
+            }
+            if (list == null)
+                return;
+            _view.ViewHistory(list);
+        }
+        public void Add(HistoryModel model)
+        {
+            List<HistoryModel> list;
+            using (FileStream file = new FileStream("History/history", FileMode.OpenOrCreate))
+            {
+                list = JsonSerializer.Deserialize<List<HistoryModel>>(file);
+            }
+            list.Add(model);
+            using (FileStream file = new FileStream("History/history", FileMode.OpenOrCreate))
+            {
+                JsonSerializer.Serialize<List<HistoryModel>>(file, list);
+            }
+        }
+    }
+}
