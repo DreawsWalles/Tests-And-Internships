@@ -1,0 +1,23 @@
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive - ВГУ\C#\project.XML_file\project\bin\Debug\project.exe.config
+E:\OneDrive - ВГУ\C#\project.XML_file\project\bin\Debug\project.exe
+E:\OneDrive - ВГУ\C#\project.XML_file\project\bin\Debug\project.pdb
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.exe
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.pdb
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.csproj.AssemblyReference.cache
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.FrmMain.resources
+E:\OneDrive - ВГУ\C#\project.XML_file\project\obj\Debug\project.FrmWorkWithElement.resources
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\bin\Debug\project.exe.config
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\bin\Debug\project.exe
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\bin\Debug\project.pdb
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.FrmMain.resources
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.FrmWorkWithElement.resources
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.Properties.Resources.resources
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.exe
+C:\Users\spits\Desktop\.net--XML-file--XSLT--HTML-master\obj\Debug\project.pdb

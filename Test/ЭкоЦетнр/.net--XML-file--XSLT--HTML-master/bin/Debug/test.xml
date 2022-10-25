@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BookList>
+    <Book>
+      <Category>a</Category>
+      <Title>a</Title>
+      <Author>
+        <string>a</string>
+        <string>a</string>
+      </Author>
+      <Year>2</Year>
+      <Price>2</Price>
+    </Book>
+    <Book>
+      <Category>d</Category>
+      <Title>b</Title>
+      <Author>
+        <string>B</string>
+        <string>b</string>
+      </Author>
+      <Year>3</Year>
+      <Price>3</Price>
+    </Book>
+    <Book>
+      <Category>a</Category>
+      <Title>c</Title>
+      <Author>
+        <string>c</string>
+        <string>c</string>
+      </Author>
+      <Year>2</Year>
+      <Price>2</Price>
+    </Book>
+    <Book>
+      <Category>c</Category>
+      <Title>a</Title>
+      <Author>
+        <string>a</string>
+      </Author>
+      <Year>2</Year>
+      <Price>2</Price>
+    </Book>
+  </BookList>
+</Book>
